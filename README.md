@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **armanshaik2206@gmail.com**
 
-- 📄 Know about my experiences [Arman's Resume]([https://drive.google.com/file/d/1kCNoKSQhNEFmgBupIbO5vNKfqgTnTvss/view?usp=sharing](https://drive.google.com/file/d/1IePUDFTG_jhzF7iGPm6OBy7qx5iIxL1x/view?usp=sharing))
+- 📄 Know about my experiences [Arman's Resume](https://drive.google.com/file/d/1IePUDFTG_jhzF7iGPm6OBy7qx5iIxL1x/view?usp=sharing)
 
 - ⚡ Fun fact **I am still a student**
 
