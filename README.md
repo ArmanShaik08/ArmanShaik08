@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arman Shaik</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [ouse Price Prediction using Machine Learning in Python](https://github.com/ArmanShaik08/House-Price-Prediction-using-Machine-Learning-in-Python)
+- 🔭 I’m currently working on [Interview Coach using AI]()
 
 - 🌱 I’m currently learning **Tensor Flow**
 
