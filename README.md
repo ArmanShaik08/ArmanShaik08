@@ -3,19 +3,19 @@
 
 - 🔭 I’m currently working on [Interview Coach using AI]()
 
-- 🌱 I’m currently learning **Tensor Flow**
+- 🌱 I’m currently learning **Fast API**
 
 - 👯 I’m looking to collaborate on **any projects with OpenCV**
 
 - 🤝 I’m looking for help with **C , C++**
 
-- 👨‍💻 All of my projects are available at [https://armanshaikportfolio.framer.website/](https://armanshaikportfolio.framer.website/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://armanshaikportfolio.framer.website/)
 
 - 💬 Ask me about **Figma**
 
 - 📫 How to reach me **armanshaik2206@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kCNoKSQhNEFmgBupIbO5vNKfqgTnTvss/view?usp=sharing](https://drive.google.com/file/d/1kCNoKSQhNEFmgBupIbO5vNKfqgTnTvss/view?usp=sharing)
+- 📄 Know about my experiences [Arman's Resume]([https://drive.google.com/file/d/1kCNoKSQhNEFmgBupIbO5vNKfqgTnTvss/view?usp=sharing](https://drive.google.com/file/d/1IePUDFTG_jhzF7iGPm6OBy7qx5iIxL1x/view?usp=sharing))
 
 - ⚡ Fun fact **I am still a student**
 
